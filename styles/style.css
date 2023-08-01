@@ -26,7 +26,7 @@ a{
     border-radius: 25px;
     top: 350px;
     text-align: center;
-    left: 1220px;
+    left: 1300px;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 7px;
@@ -69,7 +69,7 @@ footer{
     grid-column-gap: 30px;
     position: absolute;
     top: 350px;
-    left: 175px; 
+    left: 245px;
 }
 
 .grid-item{
@@ -133,6 +133,9 @@ img {
     width: 100%;
 }
 
+.links{
+    margin-left: 90px;
+}
 
 p {
     line-height: 155%;
@@ -140,6 +143,7 @@ p {
 
 .page-titles {
     text-shadow: 2px 2px 2px black;
+    margin-left: 50px
 }
 
 ul {
