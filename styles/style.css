@@ -146,3 +146,12 @@ ul {
     list-style: none;
 }
 
+.small_font {
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.underline {
+    text-decoration: underline;
+}
