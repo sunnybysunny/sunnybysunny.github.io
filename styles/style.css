@@ -13,12 +13,13 @@ a{
     color: bisque;
     font-size: 1.4rem;
     background-color:rgba(147, 143, 199, 0.767);
-    border-radius: 25px;
+    border-radius: 50px;
     text-align: center;
     font-weight: 550;
-    padding: 5px;
-    top: 400px;
-    left: 40px; 
+    padding: 15px;
+    top: 370px;
+    left: 40px;
+    width: 1200px;
 }
 
 .about-2{
@@ -26,12 +27,27 @@ a{
     color: bisque;
     font-size: 1.4rem;
     background-color:rgba(147, 143, 199, 0.767);
-    border-radius: 25px;
-    top: 400px;
+    border-radius: 50px;
+    top: 560px;
     text-align: center;
     font-weight: 550;
-    padding: 5px;
-    left: 1300px;
+    padding: 15px;
+    left: 550px;
+    width: 1200px;
+}
+
+.about-3{
+    position: absolute;
+    color: bisque;
+    font-size: 1.4rem;
+    background-color:rgba(147, 143, 199, 0.767);
+    border-radius: 50px;
+    top: 820px;
+    text-align: center;
+    font-weight: 550;
+    padding: 15px;
+    left: 40px;
+    width: 1300px;
 }
 
 .about:hover {
@@ -39,6 +55,10 @@ a{
 }
 
 .about-2:hover {
+    background-color: rgb(119, 109, 169)
+}
+
+.about-3:hover {
     background-color: rgb(119, 109, 169)
 }
 
@@ -125,6 +145,19 @@ header a{
 header a:hover{
     border: 3px solid;
     border-color: rgb(65, 60, 80);
+}
+
+.home{
+    position: absolute;
+    color: bisque;
+    font-size: 30px;
+    border-radius: 50px;
+    top: 500px;
+    text-align: center;
+    font-weight: 550;
+    padding: 15px;
+    left: 270px;
+    width: 1300px;
 }
 
 img {
